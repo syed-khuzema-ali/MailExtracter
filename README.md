@@ -69,7 +69,9 @@ Unauthorized use is prohibited. The author, **Syed Khuzema Ali**, does not endor
 
 ### Make executable (Linux/macOS)
 ```chmod +x mailenum.py```
+
 🚀 Usage
+
 📄 Show Help
 ```python mailenum.py -h```
 
