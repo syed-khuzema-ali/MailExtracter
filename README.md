@@ -91,7 +91,6 @@ Add Delay Between Requests
 ## 👤 Author
 
 Syed Khuzema Ali
-Educational Cybersecurity Research
 
 ## ⭐ Contribution & Feedback
 
